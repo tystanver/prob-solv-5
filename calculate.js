@@ -21,5 +21,5 @@ const calculate = (sign, num1, num2) => {
   }
   return result;
 }
-const answer = calculate('-', 12, 45);
+const answer = calculate('/', 12, 0);
 console.log(answer)
